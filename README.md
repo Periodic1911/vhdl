@@ -1,2 +1,2 @@
 # vhdl
-Trash heap
+Public domain trash heap
